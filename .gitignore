@@ -1,0 +1,19 @@
+# Next.js
+.next/
+out/
+
+# Dependencies
+node_modules/
+
+# Environment
+.env.production
+.env.local
+!.env.example
+
+# Build/cache
+*.tsbuildinfo
+*.zip
+
+# Logs
+*.log
+npm-debug.log*
